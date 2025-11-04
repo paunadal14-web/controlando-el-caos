@@ -28,7 +28,7 @@ public class Calculadora {
             System.out.println("División: No se puede dividir entre 0");
         }
         
-        sc.close(); // Cerrar el scanner
+        sc.close();
     }
 }
 
